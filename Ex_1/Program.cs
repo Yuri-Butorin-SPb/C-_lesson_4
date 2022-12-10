@@ -37,7 +37,7 @@ double ReturnSquareNumber(double num1, double num2)
     {
         for (int i = 1; i < num2; i++)
         {
-            result = result = result * num1;
+            result = result * num1;
         }
     }
     return result;
